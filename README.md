@@ -1,3 +1,4 @@
 # AWS-Udacity-ML-Scholarship
 
-Learning the fundamentals of advanced machine learning areas such as computer vision, reinforcement learning, and generative AI. Getting hands-on with machine learning using AWS AI Devices (i.e. AWS DeepLens, AWS DeepRacer, and AWS DeepComposer)
+
+Learn the fundamentals of machine learning,Learn object-oriented programming best practices, Learn computer vision with AWS DeepLens, reinforcement learning with AWS DeepRacer, and generative AI with AWS DeepComposer.
